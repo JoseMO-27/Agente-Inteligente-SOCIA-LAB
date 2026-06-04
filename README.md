@@ -4,6 +4,7 @@
 
 La plataforma funciona como un tutor socrático interactivo que fomenta el pensamiento crítico, la ciudadanía activa y el análisis multicausal en los estudiantes de educación básica y media, integrando tecnologías modernas de Inteligencia Artificial mediante **Vite, React, Express y la API oficial de Google Gemini**.
 
+Elaborado por: José Mestra, Jeronimo Torrente, Nayfor Martínez, Jesús Martínez
 ---
 
 ## 🛠️ Requisitos Previos
