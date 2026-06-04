@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #00475e;
+  --color-secondary: #24695f;
+  --color-accent: #a9ede0;
+  --color-surface-container: #eeeeee;
+  --color-surface-bright: #f9f9f9;
+  
+  --font-plus: 'Plus Jakarta Sans', sans-serif;
+  --font-vietnam: 'Be Vietnam Pro', sans-serif;
+}
+
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  background-color: #f9f9f9;
+  color: #1a1c1c;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Academic dotted background */
+.academic-bg {
+    background-color: #f9f9f9;
+    background-image: radial-gradient(#c0e8ff 0.7px, transparent 0.7px);
+    background-size: 20px 20px;
+}
+
+/* Customized scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #c0c8cd;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #70787d;
+}

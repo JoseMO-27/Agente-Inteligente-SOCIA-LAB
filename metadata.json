@@ -1,0 +1,6 @@
+{
+  "name": "SOCIA-LAB Colombia",
+  "description": "Plataforma educativa inteligente de Ciencias Sociales para estudiantes colombianos, con tutoría socrática adaptativa, analíticas, panel docente y contextualización territorial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
