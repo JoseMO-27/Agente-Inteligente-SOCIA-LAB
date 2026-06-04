@@ -1,4 +1,4 @@
-# 🇨🇴 SOCIA-LAB Colombia — Plataforma Educativa Inteligente
+# 🚀 SOCIA-LAB Colombia — Plataforma Educativa Inteligente
 
 **SOCIA-LAB Colombia** es un agente pedagógico inteligente especializado en Ciencias Sociales, diseñado siguiendo los lineamientos pedagógicos e institucionales de la educación colombiana (Ley 115, Estándares de Competencia EBC y Derechos Básicos de Aprendizaje DBA del Ministerio de Educación Nacional). 
 
