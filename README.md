@@ -33,8 +33,12 @@ En la terminal integrada de VS Code (abre la terminal con `Ctrl + \``), ejecuta:
 ```bash
 npm install
 
+---
+
 ### Paso 2: Crear el archivo de configuración .env
 Crea un archivo .env
+
+---
 
 ### Paso 3: Configurar tu API Key de Gemini
 Abre el archivo recién creado .env e ingresa tu secreto de API de Google Gemini:
@@ -42,6 +46,8 @@ Abre el archivo recién creado .env e ingresa tu secreto de API de Google Gemini
 Env
 GEMINI_API_KEY="TU_CLAVE_API_DE_GOOGLE_STUDIO_AQUÍ"
 APP_URL="http://localhost:3000"
+
+---
 
 ### Paso 4: Ejecutar el servidor de desarrollo
 Una vez guardado el archivo .env, enciende el servidor Express con Vite integrado escribiendo:
